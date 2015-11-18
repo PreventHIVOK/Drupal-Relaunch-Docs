@@ -20,7 +20,7 @@ With that in mind, it's also being made available for public review, scrutiny, f
 
 Linked Files
 ------------
-- [Project Charter](Drupal-Relaunch-Docs/Project Charter.md)
+- [Project Charter](/Project Charter.md)
 
 Reference materials
 ===================
