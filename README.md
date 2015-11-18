@@ -319,3 +319,7 @@ The process of developing software initially, then repeatedly updating it for va
 - https://en.wikipedia.org/wiki/Cucumber_(software)
 - https://en.wikipedia.org/wiki/Software_feature
 - https://en.wikipedia.org/wiki/Progressive_disclosure
+
+## License
+Relaunch of Prevent HIV Oklahoma on Drupal Project Charter (this document) by [Curtis Blumer](http://curtisblumer.com) and [Prevent HIV Oklahoma](http://preventhivok.org) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+<br>[![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License")](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License")
